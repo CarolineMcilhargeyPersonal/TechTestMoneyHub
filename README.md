@@ -75,3 +75,5 @@ As a new user of the application, I want to be able to register an account with 
   - Your test cases 
   - Details of errors that you found
   - The _'form.html'_ and _'form-validation.js'_ files (if you completed the optional step)
+2. Upload your work somewhere accessible to us, ideally to Github/Gitlab, and send us the link. 
+3. Optional - let us know what you thought of this exercise. We really welcome any feedback.
