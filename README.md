@@ -29,14 +29,10 @@ The alert for the complete this field is not found in code.
 There is no change to page when registered
 The error is not displayed when passwords don’t match 
 
+Comments / feedback 
 
-
-
-
-### Step 4 - Save your work:
-1. Save any work you've done in a folder alongside Section A's Postman work. You will want to save: 
-  - Your test cases 
-  - Details of errors that you found
-  - The _'form.html'_ and _'form-validation.js'_ files (if you completed the optional step)
-2. Upload your work somewhere accessible to us, ideally to Github/Gitlab, and send us the link. 
-3. Optional - let us know what you thought of this exercise. We really welcome any feedback.
+Overall thought it was a very good tech test.  I appreciated that the code was provided and there was an indication of what technology to use. 
+I appreciated the unit test approach as had to learn to use the JSDOM as usually I am working on main running websites. 
+I was happy with the information provided and it was clear what was intended to do. 
+Had I more time I would have created a test suite in postman to run through the tests at once and I would have completed all tests described above. 
+Thank you for the help it was much appreciated. 
